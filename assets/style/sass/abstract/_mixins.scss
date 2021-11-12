@@ -1,0 +1,8 @@
+@mixin position ($display, $direction, $margin) {
+
+    display: $display;
+    flex-direction: $direction;
+    margin: $margin;
+}
+
+
